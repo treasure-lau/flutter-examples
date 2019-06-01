@@ -48,7 +48,7 @@ class MyAppState extends State<MyApp> {
           // 居中显示
           child: new Center(
             // 垂直布局
-            child: new Row(
+            child: new Column(
               // 交叉轴-与当前控件方向垂直的轴
               crossAxisAlignment: CrossAxisAlignment.center,
               // 主轴-与当前控件方向一致的轴
