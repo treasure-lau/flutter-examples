@@ -1,9 +1,8 @@
-# DropDown Button
+# Enabling Splash Screen
 
-Example app showing implementing drop down button.
+Example app showing implementing splash screen.
 
 <img src="demo_img.gif" height="600em" />
-
 
 ## Getting Started
 
